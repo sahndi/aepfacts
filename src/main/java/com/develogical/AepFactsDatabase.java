@@ -31,7 +31,7 @@ public class AepFactsDatabase {
         data.put("gordy",    miniBiog("Gordy likes holidays. Holidays are great.", "http://m4.licdn.com/mpr/mpr/shrink_100_100/p/1/000/105/24e/0a2d194.jpg"));
         data.put("mandeep",  miniBiog("Mandeep is a DPhil candidate at Oxford University, he's looking forward to finishing soon and backpacking around Australia.", "https://lh5.googleusercontent.com/-x02hhRKA8CQ/AAAAAAAAAAI/AAAAAAAAAAA/FYpTIjcJyZU/s96-c/photo.jpg"));
         data.put("Richard",    miniBiog("Loves coffee.", "http://images1.fanpop.com/images/image_uploads/Funny-Cat-Pictures-animal-humor-935491_500_375.jpg"));
-        data.put("Rahul", miniBiog("Rahul loves the course APE and the instructor!", "http://i.bollywoodmantra.com/albums/movie-stills/ghajini/ghajini_aamir-khan___56608.jpg"));
+        data.put("sahil", miniBiog("Rahul loves the course APE and the instructor!", "http://i.bollywoodmantra.com/albums/movie-stills/ghajini/ghajini_aamir-khan___56608.jpg"));
         data.put("ross", miniBiog("I live in London, I've just celebrated my seventh wedding anniversary and I have a son who is two years old.", "https://1.gravatar.com/avatar/ffcb06accc2ec7657eb5cffc0c9e13e2?d=https%3A%2F%2Fidenticons.github.com%2F816955557a9d60a74bd3a1d934f6a372.png"));
 
         // student 1 add biog after this comment
